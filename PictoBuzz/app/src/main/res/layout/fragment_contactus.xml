@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:textAlignment="center"
+
+    android:orientation="vertical"
+
+    >
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:layout_weight="1">
+
+    <ImageView
+        android:id="@+id/dev1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:background="@drawable/roundcorners"
+        android:padding="1dp"
+        android:scaleType="center"
+        android:layout_weight="1"
+        android:src="@drawable/pictlogo"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:orientation="vertical">
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Akshay Patel"
+          android:id="@+id/t1"
+          android:layout_weight="1"
+          android:layout_margin="10dp"
+          android:textAlignment="center"
+          />
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="akshay.ap95@gmail.com"
+          android:id="@+id/t2"
+          android:layout_weight="1"
+          android:layout_margin="10dp"
+          android:textAlignment="center"
+          />
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Contact: 7385811998"
+          android:id="@+id/t3"
+          android:layout_weight="3"
+          android:layout_margin="10dp"
+          android:textAlignment="center"
+          />
+
+    </LinearLayout>
+
+  </LinearLayout>
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:layout_weight="1">
+
+    <ImageView
+        android:id="@+id/dev2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:background="@drawable/roundcorners"
+        android:padding="1dp"
+        android:scaleType="center"
+        android:layout_weight="1"
+        android:src="@drawable/pictlogo"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:orientation="vertical">
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Shivani Mehendarge"
+          android:id="@+id/t4"
+          android:layout_weight="1"
+          android:layout_margin="10dp"
+          android:textAlignment="center"
+          />
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="smshivani579@gmail.com"
+          android:id="@+id/t5"
+          android:layout_weight="1"
+          android:layout_margin="10dp"
+          android:textAlignment="center"
+          />
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Contact: 8554883598"
+          android:id="@+id/t6"
+          android:layout_weight="3"
+          android:layout_margin="10dp"
+          android:textAlignment="center"
+          />
+
+    </LinearLayout>
+
+  </LinearLayout>
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:layout_weight="1">
+
+    <ImageView
+        android:id="@+id/dev3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:background="@drawable/roundcorners"
+        android:padding="1dp"
+        android:scaleType="center"
+        android:layout_weight="1"
+        android:src="@drawable/pictlogo"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:orientation="vertical">
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Prasad Shende"
+          android:id="@+id/t7"
+          android:layout_weight="1"
+          android:layout_margin="10dp"
+          android:textAlignment="center"
+          />
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="prasad0896@gmail.com"
+          android:id="@+id/t8"
+          android:layout_weight="1"
+          android:layout_margin="10dp"
+          android:textAlignment="center"
+          />
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Contact: 7276349656"
+          android:id="@+id/t9"
+          android:layout_weight="3"
+          android:layout_margin="10dp"
+          android:textAlignment="center"
+          />
+
+    </LinearLayout>
+
+
+
+  </LinearLayout>
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:layout_weight="1">
+
+    <ImageView
+        android:id="@+id/dev4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:background="@drawable/roundcorners"
+        android:padding="1dp"
+        android:scaleType="center"
+        android:layout_weight="1"
+        android:src="@drawable/pictlogo"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:orientation="vertical">
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Nakul Sarwate"
+          android:id="@+id/t10"
+          android:layout_weight="1"
+          android:layout_margin="10dp"
+          android:textAlignment="center"
+          />
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="nakulEMAIl"
+          android:id="@+id/t11"
+          android:layout_weight="1"
+          android:layout_margin="10dp"
+          android:textAlignment="center"
+          />
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Contact: "
+          android:id="@+id/t12"
+          android:layout_weight="3"
+          android:layout_margin="10dp"
+          android:textAlignment="center"
+          />
+
+    </LinearLayout>
+
+
+  </LinearLayout>
+</LinearLayout>

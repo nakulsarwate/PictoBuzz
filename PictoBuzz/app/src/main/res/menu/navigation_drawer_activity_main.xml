@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myapp ="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_college"
+            android:icon="@drawable/pictlogo"
+            android:title="College"
+            myapp:showAsAction="always"/>
+        <item
+            android:id="@+id/nav_pasc"
+            android:icon="@drawable/pictlogo"
+            myapp:showAsAction="ifRoom"
+            android:title="PASC" />
+        <item
+            android:id="@+id/nav_pictoreal"
+            android:icon="@drawable/pictologo"
+            myapp:showAsAction="ifRoom"
+            android:title="Pictoreal" />
+        <item
+            android:id="@+id/nav_pisb"
+            android:icon="@drawable/pisb"
+            myapp:showAsAction="ifRoom"
+            android:title="PISB" />
+        <item
+            android:id="@+id/nav_artcircle"
+            android:icon="@drawable/art_cirlce"
+            myapp:showAsAction="ifRoom"
+            android:title="Art Circle" />
+
+
+    </group>
+
+    <!--
+      5/1/2017
+    -->
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Contact Us"
+                />
+        </menu>
+    </item>
+
+</menu>

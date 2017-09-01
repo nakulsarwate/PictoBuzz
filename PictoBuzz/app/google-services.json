@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1067346865050",
+    "firebase_url": "https://pictotech-b92d1.firebaseio.com",
+    "project_id": "pictotech-b92d1",
+    "storage_bucket": "pictotech-b92d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067346865050:android:3b50dff59e28747b",
+        "android_client_info": {
+          "package_name": "com.pictoreal.pictotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067346865050-r7kudsq0noq0ufuoug2tjhob5hmcbcb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pictoreal.pictotech",
+            "certificate_hash": "D5F9082FA33BBAB6EF26297A9AAF052BE8515701"
+          }
+        },
+        {
+          "client_id": "1067346865050-n2htf1462fqcf8j84atjqr8f1lbbhn35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVJOFOmmwG85XMmEAIUkAJw5GgxIiq10Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067346865050-n2htf1462fqcf8j84atjqr8f1lbbhn35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
